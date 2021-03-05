@@ -19,8 +19,8 @@ I put together an implementation of it (on Friday March 5th) using a skid steer 
 
 The demos you'll see will show :
 
-![demo 1](images/q4_2_3.png)
-![demo 2](images/q4_2_4.png)
+![demo 1](media/q4_2_3.png)
+![demo 2](media/q4_2_4.png)
 
 
 ## Prerequisites
